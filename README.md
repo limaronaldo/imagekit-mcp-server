@@ -110,7 +110,7 @@ Ask your AI assistant:
 ## Development
 
 ```bash
-git clone https://github.com/limaronaldo/imagekit-mcp-server.git
+git clone https://github.com/aiconnai/imagekit-mcp-server.git
 cd imagekit-mcp-server
 npm install
 

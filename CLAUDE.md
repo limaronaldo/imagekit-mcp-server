@@ -2,7 +2,7 @@
 
 **Published:** February 21, 2026
 **npm:** https://www.npmjs.com/package/imagekit-mcp-server
-**GitHub:** https://github.com/limaronaldo/imagekit-mcp-server
+**GitHub:** https://github.com/aiconnai/imagekit-mcp-server
 **Version:** 1.0.0
 
 ## Overview
