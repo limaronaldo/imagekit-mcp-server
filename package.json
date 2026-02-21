@@ -1,6 +1,6 @@
 {
   "name": "imagekit-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for ImageKit.io — upload, search, transform, and manage media assets",
   "main": "index.js",
   "type": "module",
