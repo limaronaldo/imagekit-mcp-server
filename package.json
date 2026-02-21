@@ -1,0 +1,47 @@
+{
+  "name": "imagekit-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for ImageKit.io — upload, search, transform, and manage media assets",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "imagekit-mcp-server": "index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "imagekit": "^6.0.0",
+    "zod": "^3.24.0"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "imagekit",
+    "media",
+    "cdn",
+    "image-management",
+    "model-context-protocol",
+    "ai",
+    "claude"
+  ],
+  "author": "Ronaldo Lima",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limaronaldo/imagekit-mcp-server.git"
+  },
+  "homepage": "https://github.com/limaronaldo/imagekit-mcp-server#readme",
+  "bugs": {
+    "url": "https://github.com/limaronaldo/imagekit-mcp-server/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
